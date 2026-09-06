@@ -1,7 +1,0 @@
-UPLOAD THESE FILES TO THE ROOT OF THE GitHub repository.
-Do not upload the enclosing folder; select the files inside this ZIP.
-
-Image mapping:
-hero.jpeg    -> Hero section
-about.jpeg   -> About section (Front looking.jpeg)
-feature.jpeg -> Featured/Feature section (Side looking.jpeg)
